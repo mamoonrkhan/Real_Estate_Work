@@ -106,28 +106,3 @@ else:
     for listing in matching_listings:
             print(f"{listing['address']} in {listing['city'].title()} — ${listing['price']} — "
                   f"{listing['bedrooms']} bed / {listing['bathrooms']} bath / {listing['sqft']} sqft")
-    
-    #best = min(matching_listings,
-    #Trying to print best match by assessing which of the posted listings has the lowest price
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''if df.empty:
-            print("\n Sorry, no listings match your preferences.")
-            #Need to add
-        else:
-            print("\n Yay! Matching Listings:\n") #
-            # Suggest the best match (lowest price while accounting for filters)
-            #another for loop for the rows, following the for loops for the columns'''
