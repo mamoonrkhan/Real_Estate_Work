@@ -22,8 +22,8 @@ This program is a real estate listing browser that allows users to filter and ra
 ```bash
 project-folder/
 |
-|---Better_1Listings.py              # Main logic of the app
+|---Better_1Listings.py             # Main logic of the app
 |---Better_Filtering.py             # Helper function to filter listings
 |---Better_Ranking.py               # Helper function to rank listings
-|---listings.csv             # File to retrieve listings from
-|___README.md                # You're reading this!
+|---listings.csv                    # File to retrieve listings from
+|___README.md                       # You're reading this!
