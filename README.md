@@ -8,6 +8,7 @@ This program is a real estate listing browser that allows users to filter and ra
 - Ask users for specific filter crtieria (location, budget, etc.)
 - Filter listings based on respective user input
 - Option to rank matching properties by value points (price, size, etc.)
+- Additional functions such as price per sqft.
 - Save filtered and ranked listings to a new CSV file
 
 ## 🛠️ Technologies Used
@@ -21,8 +22,8 @@ This program is a real estate listing browser that allows users to filter and ra
 ```bash
 project-folder/
 |
-|---Listings.py              # Main logic of the app
-|---Filtering.py             # Helper function to filter listings
-|---Ranking.py               # Helper function to rank listings
+|---Better_1Listings.py              # Main logic of the app
+|---Better_Filtering.py             # Helper function to filter listings
+|---Better_Ranking.py               # Helper function to rank listings
 |---listings.csv             # File to retrieve listings from
 |___README.md                # You're reading this!
