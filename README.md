@@ -6,7 +6,7 @@ This program is a real estate listing browser that allows users to filter and ra
 
 - Analyze and display property listings from a CSV file
 - Option to see all unfiltered listings
-- Ask users for specific filter crtieria (location, budget, etc.)
+- Ask users for specific filter criteria (location, budget, etc.)
 - Filter listings based on respective user input
 - Option to rank matching properties by value points (price, size, bedroom count, bathroom count)
 - Additional functions such as price per sqft. and average price of all matching listings
